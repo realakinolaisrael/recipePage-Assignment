@@ -13,7 +13,7 @@ Create both ordered and unordered lists
 Insert and format images with proper attributes
 Use semantic HTML elements appropriately
 
-### Assignment Requirements
+## Assignment Requirements
 1. Document Structure (15 points)
 Your HTML document must include:
 Proper DOCTYPE declaration
@@ -68,7 +68,7 @@ Ensure all files are in the same folder so images display correctly
 Sample Recipe Structure
 My Favorite Chocolate Chip Cookies
 
-### About this recipe paragraph...
+## About this recipe paragraph...
 
 Recipe Information:
 - Prep time: 15 minutes
@@ -82,13 +82,13 @@ Ingredients:
 • 3/4 cup brown sugar
 • [etc...]
 
-### Instructions:
+## Instructions:
 1. Preheat oven to 375°F
 2. Mix flour and baking soda in bowl
 3. Cream butter and sugars
 4. [etc...]
 
-### Grading Rubric
+## Grading Rubric
 Criteria
 Excellent (A)
 Good (B)
@@ -96,7 +96,7 @@ Satisfactory (C)
 Needs Work (D/F)
 
 
-### Document Structure
+## Document Structure
 Perfect HTML5 structure with all required elements
 Minor structural issues
 Basic structure present
@@ -122,16 +122,16 @@ No HTML errors, perfect syntax
 3-4 HTML errors
 Multiple HTML errors affecting functionality
 
-### Bonus Opportunities (+5 points each)
+## Bonus Opportunities (+5 points each)
 Add a link to the source of your recipe
 Include a "Nutrition Facts" section
 Add a second image (ingredient photo or step illustration)
 Use additional semantic HTML elements (like <section> or <article>)
 
-#### Due Date
+## Due Date
 15/08/2025
 
-#### Resources
+## Resources
 W3Schools HTML Tutorial: https://www.w3schools.com/html/
 MDN HTML Reference: https://developer.mozilla.org/en-US/docs/Web/HTML
 HTML Validator: https://validator.w3.org/
